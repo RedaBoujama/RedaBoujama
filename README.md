@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RedaBoujama
-- 👀 I’m interested in softawre developmentn 
+- 👀 I’m interested in softawre development 
 - 🌱 I’m currently learning Django
 - 💞️ I’m looking to collaborate on Django projects
 
